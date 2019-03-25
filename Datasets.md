@@ -1,6 +1,6 @@
 ## Datasets
-1. [NQ] **Natural Questions: a Benchmark for Question Answering Research.** Tom Kwiatkowski and Michael Collins, Research Scientists, Google AI Language. January 23, 2019. [paper](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/b8c26e4347adc3453c15d96a09e6f7f102293f71.pdf) 
-    - [blog](https://ai.google.com/research/NaturalQuestions/dataset)
+### English
+1. [NQ] **Natural Questions: a Benchmark for Question Answering Research.** Tom Kwiatkowski and Michael Collins, Research Scientists, Google AI Language. January 23, 2019. [paper](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/b8c26e4347adc3453c15d96a09e6f7f102293f71.pdf); [blog](https://ai.google.com/research/NaturalQuestions/dataset)
 2. [SQuAD 2.0: Stanford Question Answering Dataset] **Know What You Don’t Know: Unanswerable Questions for SQuAD.** Pranav Rajpurkar∗ Robin Jia∗ Percy Liang. 2018 ACL. 
 3. [SQuAD 1.0: Stanford Question Answering Dataset] **SQuAD: 100,000+ Questions for Machine Comprehension of Text.** Pranav Rajpurkar, Jian Zhang, Konstantin Lopyrev, Percy Liang. 2016 EMNLP.
 4. [HotpotQA]
@@ -21,6 +21,11 @@
 19. [MNLI: Multi-Genre Natural Language Inference] **The RepEval 2017 Shared Task: MultiGenre Natural Language Inference with Sentence Representations** N. Nangia, A. Williams, A. Lazaridou, and S. R. Bowman. 2017.
 20. [RTE: Recognizing Textual Entailment] **Glue: A multi-task benchmark and analysis platform for natural language understanding.** Alex Wang et al. 2018 
 21. [WNLI:  Winograd NLI] derived from **The winograd schema challenge.** Hector Levesque et al. 2012.
+23. [NewsQA]
+
+### Chinese
+1. [DuReader] **DuReader: a Chinese Machine Reading Comprehension Dataset from Real-world Applications** Haifeng Wang et al. 2018. [Leadboard](https://ai.baidu.com/broad/leaderboard?dataset=dureader)
+
 
 
 
@@ -48,8 +53,10 @@
         - SQuAD 1.0 (extract answer from a context given a question)
         - SQuAD 2.0 (predict whether have answer and extract answer from a context given a question)
     - generate QA
-        - dialogues
+        - Conversational QA
             - pass
+        - Single-turn QA
+            - DuReader (summary answer from multiple documents according to question which type is in Entity/Description/YesNo or Fact/Opinion)
 
 ## Data process tools
 1. [jackalhan/qa_datasets_converter](https://github.com/jackalhan/qa_datasets_converter)
@@ -73,8 +80,13 @@
 | SQuAD 1.0 | QA | 87.5k | 10.5k | 9.5k | |  Accuracy/F1 | Extractive QA | 546 wiki pages |
 | SQuAD 2.0 | QA | 130.3k | 11.8k | 8.8k | | Accuracy/F1 | Extractive QA | 348 wiki pages |
 | NQ | QA | 307.3k | 7.8k | 7.8k | | | Extractive QA | Google Search Engine |
+| DuReader | Open-domain Question Answering | 271.5k | 10k | 20k | | [ROUGE-L and BLEU4](http://aclweb.org/anthology/W18-2611) | Generative QA |  Baidu Search & Baid Zhidao | 
 
 
+
+## Data related links
+1. [Baidu Release Chinese Dataset](https://ai.baidu.com/broad/introduction)
+2. 
 
 ## References
 1. Multi-Task Deep Neural Networks for Natural Language Understanding. Xiaodong Liu et al. 2019.

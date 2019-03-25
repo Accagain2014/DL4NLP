@@ -78,3 +78,12 @@ Understanding Classic Deep Learning NLP Methods and their Implementations.
     - 将bert应用于文本摘要, 提出two-stage思路：stage-one transformer出摘要草稿, stage-two tansformer带上原文refine.
     - 针对Summary的评价标准Rouge增加了一个额外的loss, 机器内存小, batch_size不能设大, 多steps延迟更新.
     
+
+## QA Models
+- Match-LSTM
+- BiDAF, Bi-Directional attention flow for machine comprehension. 2017 ICLR. MInjoon Seo et al. University of Washington & Allen Institute for Artificial Intelligence.
+- AoA Reader
+- DCN
+- R-net: Machine reading comprehension with self matching networks. [code](https://github.com/HKUST-KnowComp/R-Net) MSRA. 2018.
+- QANET: COMBINING LOCAL CONVOLUTION WITH GLOBAL SELF-ATTENTION FOR READING COMPREHENSION. [code](https://github.com/NLPLearn/QANet) CMU & Google Brain 2018.  Adams Wei Yu1, David Dohan2, Minh-Thang Luong
+
