@@ -86,4 +86,5 @@ Understanding Classic Deep Learning NLP Methods and their Implementations.
 - DCN
 - R-net: Machine reading comprehension with self matching networks. [code](https://github.com/HKUST-KnowComp/R-Net) MSRA. 2018.
 - QANET: COMBINING LOCAL CONVOLUTION WITH GLOBAL SELF-ATTENTION FOR READING COMPREHENSION. [code](https://github.com/NLPLearn/QANet) CMU & Google Brain 2018.  Adams Wei Yu1, David Dohan2, Minh-Thang Luong
-
+- AoA: Attention-over-Attention Neural Networks for Reading Comprehension. Yiming Cui et al. HIT & iFLYTEK. 2017. 
+- Text Understanding with the Attention Sum Reader Network. ACL 2016. IBM Watson. 

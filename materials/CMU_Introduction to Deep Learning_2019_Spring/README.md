@@ -1,2 +1,2 @@
 ## Links
-- [Websit](http://deeplearning.cs.cmu.edu/)
+- [Website](http://deeplearning.cs.cmu.edu/)
