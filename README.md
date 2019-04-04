@@ -3,6 +3,7 @@ Understanding Classic Deep Learning NLP Methods and their Implementations.
 
 ## Important Links
 1. [thunlp/RCPapers](https://github.com/thunlp/RCPapers)
+2. [Overview of Modern Deep Learning Techniques Applied to Natural Language Processing](https://github.com/omarsar/nlp_overview)
 
 ## Important Agencies
 1. [Google AI]
@@ -79,6 +80,7 @@ Understanding Classic Deep Learning NLP Methods and their Implementations.
     - 针对Summary的评价标准Rouge增加了一个额外的loss, 机器内存小, batch_size不能设大, 多steps延迟更新.
     
 
+
 ## QA Models
 - Match-LSTM
 - BiDAF, Bi-Directional attention flow for machine comprehension. 2017 ICLR. MInjoon Seo et al. University of Washington & Allen Institute for Artificial Intelligence.
@@ -88,3 +90,10 @@ Understanding Classic Deep Learning NLP Methods and their Implementations.
 - QANET: COMBINING LOCAL CONVOLUTION WITH GLOBAL SELF-ATTENTION FOR READING COMPREHENSION. [code](https://github.com/NLPLearn/QANet) CMU & Google Brain 2018.  Adams Wei Yu1, David Dohan2, Minh-Thang Luong
 - AoA: Attention-over-Attention Neural Networks for Reading Comprehension. Yiming Cui et al. HIT & iFLYTEK. 2017. 
 - Text Understanding with the Attention Sum Reader Network. ACL 2016. IBM Watson. 
+- 
+- **1. Multi-task Learning with Sample Re-weighting for Machine Reading Comprehension.** [code](https://github.com/xycforgithub/MultiTask-MRC). MS & CMU Yichong Yu et al. 2019.
+    - MTL-task applied to MRC
+    - sample re-weighting scheme. add corpus similarity to final loss.
+    - model is complicated.
+    
+- 

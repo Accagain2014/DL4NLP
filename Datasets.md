@@ -15,23 +15,25 @@
 13. [**CBTest: Children’s Book Test**] The goldilocks principle: Reading children’s books with explicit memory representations. Hill et al. 2015. 
 14. [**DuReader**] DuReader: a Chinese Machine Reading Comprehension Dataset from Real-world Applications. Haifeng Wang et al. 2018. [Leadboard](https://ai.baidu.com/broad/leaderboard?dataset=dureader)
 15. [**CMRC 2018**] Chinese Machine Reading Comprehension. HIT & iFLYTEK 2018. [link](https://hfl-rc.github.io/cmrc2018/task/)
+16. [**bAbI**] Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks. Jason Weston 2015. 
+17. [**Who-Did-What**] Who did What: A Large-Scale Person-Centered Cloze Dataset. 2016 EMNLP. Takeshi Onishi et al. 
 
 #### Two Sentence Classification 
-1. [SNLI: Stanford Natural Language Inference]**A large annotated corpus for learning natural language inference. ** Bowman et al. 2015. [link]((https://nlp.stanford.edu/projects/snli/))
-2. [SciTail] **A textual entailment dataset from science question answering. ** Khot et al. AAAI. 2018. [link]((https://leaderboard.allenai.org/scitail/submissions/public))
-3. [QQP: Quora Question Pairs] **Quora question pairs.** Z. Chen, H. Zhang, X. Zhang, and L. Zhao. 2018. 
-4. [MRPC: Microsoft Research Paraphrase Corpus] **Automatically constructing a corpus of sentential paraphrases.** William B Dolan and Chris Brockett. 2005.
-5. [MNLI: Multi-Genre Natural Language Inference] **The RepEval 2017 Shared Task: MultiGenre Natural Language Inference with Sentence Representations** N. Nangia, A. Williams, A. Lazaridou, and S. R. Bowman. 2017.
-6. [RTE: Recognizing Textual Entailment] **Glue: A multi-task benchmark and analysis platform for natural language understanding.** Alex Wang et al. 2018 
-7. [WNLI:  Winograd NLI] derived from **The winograd schema challenge.** Hector Levesque et al. 2012.
+1. [**SNLI: Stanford Natural Language Inference**] A large annotated corpus for learning natural language inference. Bowman et al. 2015. [link]((https://nlp.stanford.edu/projects/snli/))
+2. [**SciTail**] A textual entailment dataset from science question answering.  Khot et al. AAAI. 2018. [link]((https://leaderboard.allenai.org/scitail/submissions/public))
+3. [**QQP: Quora Question Pairs**] Quora question pairs. Z. Chen, H. Zhang, X. Zhang, and L. Zhao. 2018. 
+4. [**MRPC: Microsoft Research Paraphrase Corpus**] Automatically constructing a corpus of sentential paraphrases. William B Dolan and Chris Brockett. 2005.
+5. [**MNLI: Multi-Genre Natural Language Inference**] The RepEval 2017 Shared Task: MultiGenre Natural Language Inference with Sentence Representations N. Nangia, A. Williams, A. Lazaridou, and S. R. Bowman. 2017.
+6. [**RTE: Recognizing Textual Entailment**] Glue: A multi-task benchmark and analysis platform for natural language understanding. Alex Wang et al. 2018 
+7. [**WNLI:  Winograd NLI**] derived from The winograd schema challenge. Hector Levesque et al. 2012.
 
 #### Two Sentence Relevance
-1. [STS-B: Semantic Textual Similarity Benchmark] **Semeval-2017 task 1: Semantic textual similarity-multilingual and cross-lingual focused evaluation.** Daniel Cer et al. 2017.
-2. [QNLI] derived from the Stanford Question Answering Dataset.(SQuAD 1.0) 2016.
+1. [**STS-B: Semantic Textual Similarity Benchmark**] Semeval-2017 task 1: Semantic textual similarity-multilingual and cross-lingual focused evaluation. Daniel Cer et al. 2017.
+2. [**QNLI**] derived from the Stanford Question Answering Dataset.(SQuAD 1.0) 2016.
 
 #### Sentence Classification
-1. [CoLA] **Neural Network Acceptability Judgments.** Alex Warstadt, Amanpreet Singh, and Samuel R Bowman. 2018
-2. [SST-2: Stanford Sentiment Treebank] **Recursive deep models for semantic compositionality over a sentiment treebank.** Richard Socher et al. 2013 EMNLP.
+1. [**CoLA**] Neural Network Acceptability Judgments. Alex Warstadt, Amanpreet Singh, and Samuel R Bowman. 2018
+2. [**SST-2: Stanford Sentiment Treebank**] Recursive deep models for semantic compositionality over a sentiment treebank. Richard Socher et al. 2013 EMNLP.
 
 
 ## Tasks [NLU models & NLI tasks]
