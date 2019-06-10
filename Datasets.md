@@ -1,4 +1,11 @@
 ## Datasets
+#### Corpus
+1. [brightmart/nlp_chinese_corpus](https://github.com/brightmart/nlp_chinese_corpus)
+    - contain several million and 10 million Chinese nlp corpus, related wiki2019zh, news2016zh, baike2019qa
+    
+
+
+
 #### QA
 1. [**NQ**] Natural Questions: a Benchmark for Question Answering Research.** Tom Kwiatkowski and Michael Collins, Research Scientists, Google AI Language. January 23, 2019. [paper](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/b8c26e4347adc3453c15d96a09e6f7f102293f71.pdf); [blog](https://ai.google.com/research/NaturalQuestions/dataset)
 2. [**SQuAD 2.0: Stanford Question Answering Dataset**] Know What You Don’t Know: Unanswerable Questions for SQuAD. Pranav Rajpurkar∗ Robin Jia∗ Percy Liang. 2018 ACL. 
@@ -34,6 +41,7 @@
 #### Sentence Classification
 1. [**CoLA**] Neural Network Acceptability Judgments. Alex Warstadt, Amanpreet Singh, and Samuel R Bowman. 2018
 2. [**SST-2: Stanford Sentiment Treebank**] Recursive deep models for semantic compositionality over a sentiment treebank. Richard Socher et al. 2013 EMNLP.
+
 
 
 ## Tasks [NLU models & NLI tasks]
@@ -95,7 +103,7 @@
 
 ## Data related links
 1. [Baidu Release Chinese Dataset](https://ai.baidu.com/broad/introduction)
-2. 
+2. [chaotbot_corpus_Chinese](https://github.com/codemayq/chaotbot_corpus_Chinese)
 
 ## References
 1. Multi-Task Deep Neural Networks for Natural Language Understanding. Xiaodong Liu et al. 2019.
