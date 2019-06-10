@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5341a117-b48e-4468-83f7-63876be89bcb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Language_Model.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Machine_Translation.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pretraned_Language_Model.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Question_Answering.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thinkings.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets.md" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequence_model.md" beforeDir="false" afterPath="$PROJECT_DIR$/Attention.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pretraned_Language_Model.md" beforeDir="false" afterPath="$PROJECT_DIR$/Pretraned_Language_Model.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,12 +61,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="2162" />
+          <entry key="md" value="2632" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="2162" />
+          <entry key="Markdown" value="2632" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -91,12 +83,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Pretraned_Language_Model.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="259">
-                <caret line="32" column="41" lean-forward="true" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
+              <first_editor relative-caret-position="204">
+                <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
               </first_editor>
               <second_editor />
             </state>
@@ -187,12 +179,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tasks.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="272">
-                <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+              <first_editor relative-caret-position="374">
+                <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
               </first_editor>
               <second_editor />
             </state>
@@ -234,8 +226,8 @@
         <option value="$PROJECT_DIR$/Machine_Translation.md" />
         <option value="$PROJECT_DIR$/Question_Answering.md" />
         <option value="$PROJECT_DIR$/Language_Model.md" />
-        <option value="$PROJECT_DIR$/Pretraned_Language_Model.md" />
         <option value="$PROJECT_DIR$/Tasks.md" />
+        <option value="$PROJECT_DIR$/Pretraned_Language_Model.md" />
       </list>
     </option>
   </component>
@@ -453,21 +445,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pretraned_Language_Model.md">
+    <entry file="file://$PROJECT_DIR$/Tasks.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="259">
-            <caret line="32" column="41" lean-forward="true" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
+          <first_editor relative-caret-position="374">
+            <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tasks.md">
+    <entry file="file://$PROJECT_DIR$/Pretraned_Language_Model.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="272">
-            <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+          <first_editor relative-caret-position="204">
+            <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
           </first_editor>
           <second_editor />
         </state>
