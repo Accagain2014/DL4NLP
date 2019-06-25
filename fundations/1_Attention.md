@@ -5,8 +5,8 @@
 
 ## Attention Mechanism
 - Papers
-    - Neural machine translation by jointly learning to align and translate. Bahdanau et al. 2014.
-    - Effective Approaches to Attention-based Neural Machine Translation. Luong et al., 2015.
+    - Neural machine translation by jointly learning to align and translate. Bahdanau et al. 2014. *****
+    - Effective Approaches to Attention-based Neural Machine Translation. Luong et al., 2015. 
     - Sequence to Sequence Learning with Neural Networks. 
     - Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation.
     

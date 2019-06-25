@@ -67,11 +67,18 @@
     
 [7. Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/pdf/1901.02860.pdf)
 ------
-- 2019. CMU & Google Brain.
-- contributions:
+- 2019 CMU & Google Brain.
+- contributions
     - a segment-level recurrence mechanism and a relative positional encoding scheme.
-    - 
-
+- codes
+    - official code, pytorch & tf: [kimiyoung/transformer-xl](https://github.com/kimiyoung/transformer-xl)
+- blogs
+    - officail blog: [Transformer-XL: Unleashing the Potential of Attention Models](https://ai.googleblog.com/2019/01/transformer-xl-unleashing-potential-of.html)
+- applications
+    - word-level language modeling
+    - character-level language modeling
+    - generate relatively coherent long text articles with thousands of tokens trained on only 100M tokens
+    
     
 ### Applications 
 [1. Pretraining-Based Natural Language Generation for Text Summarization.](https://arxiv.org/pdf/1902.09243.pdf)
