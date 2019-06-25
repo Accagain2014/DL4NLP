@@ -14,6 +14,7 @@
 
 
 [2. Attention Is All You Need](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)
+-----
 - 2017 NIPS. Before BERT， Transformer. Google Brain.
 - Only rely on Attention network, not rely on any RNN or CNN, good at parallelization, and have less train time.
 - The biggest benefit, however, comes from how The Transformer lends itself to parallelization.
