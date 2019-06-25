@@ -10,11 +10,10 @@
     - language model manner, predict next word/token in the sequence
     - autoencoder, reads the input sequence into a vector and predicts the input sequence again.
 - use the weights learned from unlabeled data to initialize the supervised methods
-    
-    
+
+
 
 [2. Attention Is All You Need](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)
-------
 - 2017 NIPS. Before BERT， Transformer. Google Brain.
 - Only rely on Attention network, not rely on any RNN or CNN, good at parallelization, and have less train time.
 - The biggest benefit, however, comes from how The Transformer lends itself to parallelization.
@@ -65,19 +64,20 @@
 - [张俊林, 效果惊人的GPT 2.0模型：它告诉了我们什么](https://zhuanlan.zhihu.com/p/56865533)
     
     
-[7. Multi-Task Deep Neural Networks for Natural Language Understanding](https://arxiv.org/pdf/1901.11504.pdf)
+[7. Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/pdf/1901.02860.pdf)
 ------
-- MSRA, MULTI-TASK DNN. Xiaodong Liu, Pengcheng He, Weizhu Chen, Jianfeng Gao. 2019.
-- Based on Bert, finetune with multi-task objective. New STOA in 8 tasks of 9 tasks in Glue. Good generalization capability.
+- 2019. CMU & Google Brain.
+- contributions:
+    - a segment-level recurrence mechanism and a relative positional encoding scheme.
+    - 
+
     
-    
-[8. Pretraining-Based Natural Language Generation for Text Summarization.](https://arxiv.org/pdf/1902.09243.pdf)
+### Applications 
+[1. Pretraining-Based Natural Language Generation for Text Summarization.](https://arxiv.org/pdf/1902.09243.pdf)
 ------
 - MSRA. 2019.
 - 将bert应用于文本摘要, 提出two-stage思路：stage-one transformer出摘要草稿, stage-two tansformer带上原文refine.
 - 针对Summary的评价标准Rouge增加了一个额外的loss, 机器内存小, batch_size不能设大, 多steps延迟更新.
     
-
-
 
     

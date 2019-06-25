@@ -12,11 +12,11 @@
     
 
 ## RNN
-![base RNN](images/base_rnn_model.png)
+![base RNN](../images/base_rnn_model.png)
 
-![attention RNN](images/attention_base_rnn_model.png)
+![attention RNN](../images/attention_base_rnn_model.png)
 
-![QKV](images/QKV.png)
+![QKV](../images/QKV.png)
 
 
 - Attention理解
