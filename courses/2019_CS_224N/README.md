@@ -1,6 +1,6 @@
 ### Links
-- [website](http://web.stanford.edu/class/cs224n/))
-- [videos](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z))
+- [website](http://web.stanford.edu/class/cs224n/)
+- [videos](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 - [code]()
 
 
