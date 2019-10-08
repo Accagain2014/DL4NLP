@@ -4,6 +4,12 @@
     - contain several million and 10 million Chinese nlp corpus, related wiki2019zh, news2016zh, baike2019qa
     
 
+#### Core Entity(Keywords) Extraction
+1. [thunlp/THUOCL](https://github.com/thunlp/THUOCL)
+    - have filtered by manual work
+2. 
+
+
 #### Language Model
 1. [enwiki8]
 2. [text8]
