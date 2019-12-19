@@ -24,4 +24,10 @@
 - [Natural Language Processing (Almost) from Scratch.](http://jmlr.org/papers/volume12/collobert11a/collobert11a.pdf) 2011.
     - Propose a unified neural network architecture for sequence labeling tasks.
     
-    
+
+
+### Tools
+- for English
+    - spaCy
+
+- for Chinese

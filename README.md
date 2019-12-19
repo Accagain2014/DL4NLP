@@ -32,9 +32,9 @@ Understanding Classic Deep Learning NLP Methods and their Implementations.
 
 - sequence labeling
     - POS tagging (part-of-speech tagging)
-    - chunking 
+    - Chunking 
     - NER ( named entity recognition)
-    - semantic role labeling
+    - Semantic role labeling
 
 - machine translation
 

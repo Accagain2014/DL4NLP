@@ -3,6 +3,8 @@
 1. [brightmart/nlp_chinese_corpus](https://github.com/brightmart/nlp_chinese_corpus)
     - contain several million and 10 million Chinese nlp corpus, related wiki2019zh, news2016zh, baike2019qa
     
+2. [AI实践项目-数据集 Chinese NLP Data Hub](http://118.126.117.29:8888/data/list)
+
 
 #### Core Entity(Keywords) Extraction
 1. [thunlp/THUOCL](https://github.com/thunlp/THUOCL)
@@ -17,6 +19,20 @@
 4. [One Billion Word]
 5. [Penn TreeBank]
 6. 
+
+
+#### Word Embedding
+- Chinese Word Embedding
+    1. [Fasttext](https://github.com/facebookresearch/fastText/blob/master/docs/crawl-vectors.md). Trained on Common Crawl and Wikipedia. 300 dims. Stanford word segmenter for Chinese. 
+        - Useful. 2 million. 
+    2. [Tencent AI Lab Embedding Corpus for Chinese Words and Phrases](https://ai.tencent.com/ailab/nlp/embedding.html)
+    3. [Embedding/Chinese-Word-Vectors](https://github.com/Embedding/Chinese-Word-Vectors)
+        - 100+ Chinese Word Vectors
+    4. []
+- English Word Embedding
+    1. [3Top/word2vec-api](https://github.com/3Top/word2vec-api)
+    2. 
+    
 
 #### QA
 1. [**NQ**] Natural Questions: a Benchmark for Question Answering Research.** Tom Kwiatkowski and Michael Collins, Research Scientists, Google AI Language. January 23, 2019. [paper](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/b8c26e4347adc3453c15d96a09e6f7f102293f71.pdf); [blog](https://ai.google.com/research/NaturalQuestions/dataset)
@@ -35,7 +51,9 @@
 14. [**DuReader**] DuReader: a Chinese Machine Reading Comprehension Dataset from Real-world Applications. Haifeng Wang et al. 2018. [Leadboard](https://ai.baidu.com/broad/leaderboard?dataset=dureader)
 15. [**CMRC 2018**] Chinese Machine Reading Comprehension. HIT & iFLYTEK 2018. [link](https://hfl-rc.github.io/cmrc2018/task/)
 16. [**bAbI**] Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks. Jason Weston 2015. 
-17. [**Who-Did-What**] Who did What: A Large-Scale Person-Centered Cloze Dataset. 2016 EMNLP. Takeshi Onishi et al. 
+17. [**Who-Did-What**] Who did What: A Large-Scale Person-Centered Cloze Dataset. 2016 EMNLP. Takeshi Onishi et al.
+18. [**RACE**] a reading comprehension task designed for middle and high-school English exams in China. Lai et al. 2017.
+ 
 
 #### Two Sentence Classification 
 1. [**SNLI: Stanford Natural Language Inference**] A large annotated corpus for learning natural language inference. Bowman et al. 2015. [link]((https://nlp.stanford.edu/projects/snli/))
@@ -45,6 +63,7 @@
 5. [**MNLI: Multi-Genre Natural Language Inference**] The RepEval 2017 Shared Task: MultiGenre Natural Language Inference with Sentence Representations N. Nangia, A. Williams, A. Lazaridou, and S. R. Bowman. 2017.
 6. [**RTE: Recognizing Textual Entailment**] Glue: A multi-task benchmark and analysis platform for natural language understanding. Alex Wang et al. 2018 
 7. [**WNLI:  Winograd NLI**] derived from The winograd schema challenge. Hector Levesque et al. 2012.
+8. [LCQMC](https://drive.google.com/file/d/1HXYMqsXjmA5uIfu_SFqP7r_vZZG-m_H0/view)
 
 #### Two Sentence Relevance
 1. [**STS-B: Semantic Textual Similarity Benchmark**] Semeval-2017 task 1: Semantic textual similarity-multilingual and cross-lingual focused evaluation. Daniel Cer et al. 2017.
@@ -61,6 +80,9 @@
     - single-sentence classification
         - CoLA (predict whether an English sentence is grammatically plausible.)
         - SST-2 (determine whether the sentiment of a sentence extracted from movie reviews is positive or negative)
+    - sequence labeling
+        - NER: 
+        - POS
    
 2. **Pair Sentences.**
     - pairwise text classification

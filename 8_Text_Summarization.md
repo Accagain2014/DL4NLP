@@ -2,11 +2,10 @@
 ### Datasets
 - [LCSTS: A Large-Scale Chinese Short Text Summarization Dataset. ](http://icrc.hitsz.edu.cn/Article/show/139.html)
     - 2015. 2 million short texts from Chinese microblogging website SinaWeibo.
-    
-    https://github.com/LIAAD/KeywordExtractor-Datasets
-    
--
+    [https://github.com/LIAAD/KeywordExtractor-Datasets]
     [https://github.com/mathsyouth/awesome-text-summarization]
+    
+
     
 
 ### Papers    
@@ -48,6 +47,7 @@
 
 - [Neural Keyphrase Generation via Reinforcement Learning with Adaptive Rewards]
     - 2019. ACL.
+
 
 ### Models
 - http://opennmt.net/Models-py/
