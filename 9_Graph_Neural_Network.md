@@ -1,5 +1,8 @@
 deep learning based methods
 
+## Survey Github & Papers
+- [DeepGraphLearning/LiteratureDL4Graph](https://github.com/DeepGraphLearning/LiteratureDL4Graph)
+- 
 
 
 ## Papers
@@ -16,7 +19,7 @@ deep learning based methods
 - node classification
 - link prediction
 - clustering
-
+i
 
 ## Categories
 - GCN (Graph convolutional network)

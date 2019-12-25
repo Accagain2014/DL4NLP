@@ -18,7 +18,6 @@
 3. [WikiText-103]
 4. [One Billion Word]
 5. [Penn TreeBank]
-6. 
 
 
 #### Word Embedding
@@ -31,7 +30,6 @@
     4. []
 - English Word Embedding
     1. [3Top/word2vec-api](https://github.com/3Top/word2vec-api)
-    2. 
     
 
 #### QA
@@ -53,6 +51,7 @@
 16. [**bAbI**] Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks. Jason Weston 2015. 
 17. [**Who-Did-What**] Who did What: A Large-Scale Person-Centered Cloze Dataset. 2016 EMNLP. Takeshi Onishi et al.
 18. [**RACE**] a reading comprehension task designed for middle and high-school English exams in China. Lai et al. 2017.
+
  
 
 #### Two Sentence Classification 
@@ -104,9 +103,14 @@
         - CNN/DailyMail News (to teach the machine to do cloze-style reading comprehensions)
     - generate QA
         - Conversational QA
-            - pass
+            - DREAM (a multiple-choice Dialogue-based REAding comprehension exaMination dataset). [example](https://dataset.org/dream/)
         - Single-turn QA
             - DuReader (summary answer from multiple documents according to question which type is in Entity/Description/YesNo or Fact/Opinion)
+        - Machine Reading Comprehension
+            - C3: Multiple-Choice Chinese machine reading Comprehension. [github](https://github.com/nlpdata/c3). [example](https://dataset.org/c3/)
+            
+            
+        
 
 ## Data process tools
 1. [jackalhan/qa_datasets_converter](https://github.com/jackalhan/qa_datasets_converter)
