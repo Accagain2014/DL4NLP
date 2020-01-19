@@ -13,6 +13,7 @@
 
 ### Dataset 
 - CLUENER 2020: https://github.com/CLUEbenchmark/CLUENER2020
+    - train: 1.3W, dev/test: 1.3k, one sentence one example
 - Chinese dataset 1: https://github.com/zjy-ucas/ChineseNER/tree/master/data 
 - English CoNLL-2003: https://github.com/kyzhouhzau/BERT-NER/tree/master/data
 - Dh_msra: https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/datasets/dh_msra/intro.ipynb
