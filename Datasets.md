@@ -5,11 +5,12 @@
     
 2. [AI实践项目-数据集 Chinese NLP Data Hub](http://118.126.117.29:8888/data/list)
 
+3. [中文任务基准测评](https://www.cluebenchmarks.com/introduce.html)
+
 
 #### Core Entity(Keywords) Extraction
 1. [thunlp/THUOCL](https://github.com/thunlp/THUOCL)
     - have filtered by manual work
-2. 
 
 
 #### Language Model

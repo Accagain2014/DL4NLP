@@ -24,3 +24,7 @@
 
 - [3. U-Net: Machine Reading Comprehension with Unanswerable Questions. (2018 Xipeng Qiu†∗, Yang Liu‡ et al.)](https://arxiv.org/abs/1810.06638)
     - SQuAD 2.0 Test F1 score: 71.7.
+    
+
+## Summary
+- [Github: seriousran/awesome-qa](https://github.com/seriousran/awesome-qa)

@@ -1,5 +1,13 @@
 # Deep Learning for NLP
-Understanding Classic Deep Learning NLP Methods and their Implementations.
+Understanding Classic Deep Learning NLP Methods and their Implementations. Do Something Useful in a Long Time Feature. Slow but Valuable.
+
+
+## Terms
+- NLI: Natural Language Inference
+- NLU: Natural Language Understanding
+- NLG: Natural Language Generation
+- QA:  Question Answering
+- MRC: Machine Reading Comprehension
 
 
 ## Important Board
@@ -11,8 +19,11 @@ Understanding Classic Deep Learning NLP Methods and their Implementations.
     - Q&A Task(03/01/2018-Present)
     - Q&A + Natural Language Generation Task(03/01/2018-Present)
     - MS MARCO V1 Leaderboard(12/01/2016-03/31/2018)
-2. 
-
+    
+2. GLUE: General Language Understanding Evaluation benchmark
+    - [GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding](https://www.nyu.edu/projects/bowman/glue.pdf)
+    - Wang et al. 2018
+    - [glue-benchmark](https://gluebenchmark.com/leaderboard)
 
 
 ## Important Links

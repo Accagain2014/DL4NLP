@@ -91,7 +91,11 @@
 ------
 - todo
 - 2019, Yinhan Liu & ... & Danqi Chen.
-
+    - carefully measures the impact of many key hyperparameters and training data size. 
+    - BERT was significantly undertrained, and can match or exceed the performance of every model published after it. 
+- codes
+    - [Official PyTorch](https://github.com/pytorch/fairseq)
+    - 
 
 
 [9. XLNet: Generalized Autoregressive Pretraining for Language Understanding]
@@ -132,10 +136,16 @@
         - remove dropout to enlarge capacity of model. (train losts of steps but not to overfit in training data)
         - use LAMB as optimizer to train with big batch size
         - use n-gram (P(uni-gram) > P(bi-gram) > P(tri-gram)) as masked language model. 
+        
 - codes
     - Chinese
         - [brightmart/albert_zh](https://github.com/brightmart/albert_zh)
-        - 
+
+
+
+[12. Language Models as Knowledge Bases?]
+-----
+- 2019. ACL.
 
     
 ### Applications 
@@ -145,7 +155,6 @@
 - 将bert应用于文本摘要, 提出two-stage思路：stage-one transformer出摘要草稿, stage-two tansformer带上原文refine.
 - 针对Summary的评价标准Rouge增加了一个额外的loss, 机器内存小, batch_size不能设大, 多steps延迟更新.
     
-
 
 ### Acceleration
 [1. LAMB: LARGE BATCH OPTIMIZATION FOR DEEP LEARNING: TRAINING BERT IN 76 MINUTES]
