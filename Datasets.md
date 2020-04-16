@@ -97,6 +97,9 @@
         - STS-B (Given a pair of sentences, the model predicts a real-value score indicating the semantic similarity of the two sentences)
     - relevance ranking
         - QNLI (The task involves assessing whether a sentence contains the correct answer to a given query)
+    - sentiment analysis
+        - 
+        
 3. **QA.**
     - extractive QA
         - SQuAD 1.0 (extract answer from a context given a question)

@@ -10,6 +10,30 @@ Understanding Classic Deep Learning NLP Methods and their Implementations. Do So
 - MRC: Machine Reading Comprehension
 
 
+## Valuable Blogs
+- [Chris McCormick](http://mccormickml.com/)
+- [苏剑林](https://kexue.fm/category/Big-Data)
+
+
+
+## Important Tools
+- [stanfordnlp/stanza](https://github.com/stanfordnlp/stanza)
+    - The Stanford NLP Group's official Python NLP library. It contains support for running various accurate natural language processing tools on 60+ languages 
+    and for accessing the Java Stanford CoreNLP software from Python. [website](https://stanfordnlp.github.io/stanza/)
+    - pytorch, 2020
+    - 66 languages(including Chinese); from raw text and pipeline without error progation; high perfermance;
+    - language-agnostic
+    
+- [spaCy](https://spacy.io)
+    - 10 languages(not including Chinese);
+    - python
+    
+- [coreNLP](https://stanfordnlp.github.io/CoreNLP/)
+    - 6 languages(including Chinese);
+    - Java, 2014
+    
+    
+
 ## Important Board
 1. [MS MARCO](http://www.msmarco.org/leaders.aspx)
     - KeyPhrase Extraction(10/18/2019) ranked by F1 @3 on Eval
@@ -67,6 +91,13 @@ Understanding Classic Deep Learning NLP Methods and their Implementations. Do So
 
 
 ## Research dire
+
+
+## Services
+- [ShannonAI/service-streamer](https://github.com/ShannonAI/service-streamer)
+    - ServiceStreamer is a middleware for web service of machine learning applications. Queue requests from users are sampled into mini-batches. 
+    - ServiceStreamer can significantly enhance the overall performance of the system by improving GPU utilization.
+    - A good and fast deep learning deploy frames.
 
 ## NLP Corpus
 - [SophonPlus/ChineseNlpCorpus](https://github.com/SophonPlus/ChineseNlpCorpus)

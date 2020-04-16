@@ -12,7 +12,6 @@
 - use the weights learned from unlabeled data to initialize the supervised methods
 
 
-
 [2. Attention Is All You Need](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)
 -----
 - 2017 NIPS. Before BERT， Transformer. Google Brain.
@@ -58,7 +57,6 @@
     - 1270M (24 layers, hidden: 2048, embedding: 2048, 参数不共享)
 
 
-    
 [6. Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)
 ------
 - 2019 OpenAI GPT-2.0. 
@@ -118,7 +116,7 @@
     
 [11. A Lite Bert For Self-Supervised Learning Language Representations ]
 ------
-- done
+- done. Albert.
 - contributions
     - reduce parameters
         - width, decomposing the large vocabulary embedding matrix into two small matrices.
@@ -163,6 +161,27 @@
 - 2019.
 
 
+
 ### Surveys
-[1. ]
- 
+[1. Pre-trained Models for Natural Language Processing: A Survey](Xipeng Qiu, et. al. 2020)
+
+
+### 优化方向
+- 
+
+### To Do
+- Fast Transformer
+
+
+
+### 预训练
+- [MT-BERT预训练](https://www.bilibili.com/video/BV1vC4y147px)
+    - 低精度化
+        - Float32(FP32)和Float16(FP16)混合精度训练，加速训练和推理过程；
+    - 领域自适应
+        - 大量美团自己的UGC数据
+    - 知识融入
+        - Knowledge-aware Masking方法将"美团大脑"实体知识融入到MT-BERT预训练中;
+    - 模型轻量化
+        - 模型裁剪、知识蒸馏、Fast Transformer优化，满足上线要求；
+        

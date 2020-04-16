@@ -6,6 +6,9 @@
 - taking into account morphology. model morphology by considering subword units, and representing words by a sum of its 
  character n-grams.
 
+### facebookresearch/StarSpace
+- [StarSpace: Embed All The Things!](https://arxiv.org/abs/1709.03856)
+
 
 ### Skip-gram
 2013
