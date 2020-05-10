@@ -14,18 +14,19 @@
 
 [2. Attention Is All You Need](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)
 -----
-- 2017 NIPS. Before BERT， Transformer. Google Brain.
+- 2017 NIPS. Before BERT， **Transformer**. Google Brain.
 - Only rely on Attention network, not rely on any RNN or CNN, good at parallelization, and have less train time.
 - The biggest benefit, however, comes from how The Transformer lends itself to parallelization.
 - understanding related
     - [**visual transformer**](https://jalammar.github.io/illustrated-transformer/)
+    - [香侬读 | Transformer中warm-up和LayerNorm的重要性探究](https://zhuanlan.zhihu.com/p/84614490)
 - code related
     - [**Tensorflow offictal models: Transformer Translation Model**](https://github.com/tensorflow/models/tree/master/official/transformer)
     - [The Annotated Transformer. pytorch](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
     - [tensor2tensor library. tf](https://github.com/tensorflow/tensor2tensor/blob/master/tensor2tensor/models/transformer.py)
     - [Easy Understantding by Kyubyong/transformer. tf](https://github.com/Kyubyong/transformer)
-    - [Tensor2Tensor notebook](https://colab.research.google.com/github/tensorflow/tensor2tensor/blob/master/tensor2tensor/notebooks/hello_t2t.ipynb)
-        
+    - [Tensor2Tensor notebook](https://colab.research.google.com/github/tensorflow/tensor2tensor/blob/master/tensor2tensor/notebooks/hello_t2t.ipynb)    
+    
     
 [3. Deep contextualized word representations](https://aclweb.org/anthology/N18-1202)
 ------

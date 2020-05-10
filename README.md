@@ -10,6 +10,10 @@ Understanding Classic Deep Learning NLP Methods and their Implementations. Do So
 - MRC: Machine Reading Comprehension
 
 
+## Code Reading
+- [graykode/nlp-tutorial](https://github.com/graykode/nlp-tutorial)
+
+
 ## Valuable Blogs
 - [Chris McCormick](http://mccormickml.com/)
 - [苏剑林](https://kexue.fm/category/Big-Data)
